@@ -75,7 +75,8 @@ Through personal projects, I have gained experience in:
 - Learning new technologies independently
 - Developing AI-powered projects
 - Planning and organizing software projects
-- Applying UI/UX principles to real applications
+- Applying UI/UX in the aplications
+  
 
 ---
 
