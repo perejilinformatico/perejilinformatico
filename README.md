@@ -53,7 +53,6 @@ I enjoy building personal projects, exploring new technologies, and continuously
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge)
-![Adobe XD](https://img.shields.io/badge/AdobeXD-red?style=for-the-badge)
 
 ---
 
